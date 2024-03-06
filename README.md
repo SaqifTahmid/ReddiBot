@@ -31,7 +31,7 @@ For the NMT Model it is extremely improtant you run the application in Python 3.
 1. First clone the repository files and download the Reddit dataset.
 2. They change the directory of the code to match the location of where the dataset is stored.
 3. Run the chat_database.py file
-4. Run the traincreation.py file which will produce your test and training data from the created database/
+4. Run the traincreation.py file which will produce your test and training data from the created database
 5. Before doing anything related to the NMT file it is extremely important that you run a Python 3.6 virtual environment. This can be done directly from Visula Studio Code.
 6. Then follow the steams for installation from daniel-kukielas github repo.
 7. Make sure CUDA V8 and Cudnn 6 is also installed and added to PATH.
