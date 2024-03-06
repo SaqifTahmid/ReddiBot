@@ -3,8 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Overview
-
-Built a chatbot using Python, TensorFlow, NumPy, and Pandas. The dataset consists of 53 million Reddit comments and replies. The chatbot employs a sequence-to-sequence neural machine translation model, achieving a BLEU score of 23.
+This project implements a Neural Machine Translation (NMT) chatbot capable of handling Reddit conversations. Leveraging Python, TensorFlow, NumPy, and Pandas, the chatbot manages a vast dataset comprising 53 million Reddit comments and replies. The aim is to create an engaging and accurate conversational agent..
 
 ### Features
 
@@ -29,7 +28,7 @@ Built a chatbot using Python, TensorFlow, NumPy, and Pandas. The dataset consist
 For the NMT Model it is extremely improtant you run the application in Python 3.6 evnironment as Tensorflow 1.X versions have been deprecated  and requires a Python virtual environment to run.
 
 ## STEPS:
-1. First close the repository files and download the Reddit dataset.
+1. First clone the repository files and download the Reddit dataset.
 2. They change the directory of the code to match the location of where the dataset is stored.
 3. Run the chat_database.py file
 4. Run the traincreation.py file which will produce your test and training data from the created database/
