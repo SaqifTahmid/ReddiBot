@@ -37,6 +37,7 @@ For the NMT Model it is extremely improtant you run the application in Python 3.
 7. Make sure CUDA V8 and Cudnn 6 is also installed and added to PATH.
 8. Copy Paste your personal train.to and train.from data to the new_data folder in nmt
 9. Run prepare_data.py and then run train.py
+10. train.py may take close to 10 hours to upto 2 days depending on the month you're using so try to use tensorflow-gpu (if possible)
 
   # HAPPY CODING !
 
